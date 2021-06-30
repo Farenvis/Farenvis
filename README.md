@@ -6,7 +6,7 @@
 - Discord: Ferenvis. ϟ#0001
 
 #### 📈 My Github Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Ferenvis&show_icons=true&include_all_commits&theme=midnight-purple" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Farenvis&show_icons=true&include_all_commits&theme=midnight-purple" />
 <br>
 
 
